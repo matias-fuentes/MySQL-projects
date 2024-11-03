@@ -1,13 +1,13 @@
-# More elaborated published projects
+# More elaborated published projects using MySQL
 
 ## URLs
 
-- Fineer: https://fineer.herokuapp.com/register
+-   Fineer: https://fineer.herokuapp.com/register
 
-- WikiFood: https://cs50-wikifood.herokuapp.com/
+-   WikiFood: https://cs50-wikifood.herokuapp.com/
 
 ## Repositories
 
-- Fineer: https://github.com/matias-fuentes/Fineer
+-   Fineer: https://github.com/matias-fuentes/Fineer
 
-- WikiFood: https://github.com/matias-fuentes/WikiFood
+-   WikiFood: https://github.com/matias-fuentes/WikiFood
